@@ -1,1 +1,1 @@
-lastlines
+display-content_of_two_file
